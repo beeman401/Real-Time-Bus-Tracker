@@ -1,4 +1,4 @@
-# Eye Tracking Exercise
+# Real Time Bus Tracker
 <p>Full Stack Development with MERN Certification: Week 9 Real Time Bus Tracking Exercise.</p>
 <h2>Features</h2>
 <ul>
